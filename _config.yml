@@ -7,7 +7,7 @@ baseurl: "/presentations/" # the subpath of your site, e.g. /blog/
 author: Nikesh Bajaj
 affiliation: (Imperial College London, UK)
 #footernote: Made with Reveal.js
-style: "nb"
+style: "simple"
 
 # Build settings
 markdown: kramdown
